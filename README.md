@@ -1,5 +1,5 @@
 # Machine Learning-Project
-# Classification and Forecasting of Water Stress in Tomato Plants using Bioristor Data
+# Classification and Forecasting of Water Stress in Plants using Bioristor Data
 This project presents a machine learning and deep learning-based system to classify and forecast water stress conditions in tomato plants. Leveraging sensor data from **bioristors**, we trained and evaluated models for both classification (4-status) and binary drought prediction, aiming to support real-world smart irrigation and precision agriculture.
 
 # Models Implemented
